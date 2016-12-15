@@ -1,1 +1,2 @@
-exclude: config.json
+exclude:
+  - config.json
