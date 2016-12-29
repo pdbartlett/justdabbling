@@ -1,6 +1,14 @@
 ---
 title: Home
 layout: minimal
+featured_article: /articles/about/
 ---
-<h1>Welcome!</h1>
-<p>Under construction&thinsp;&mdash;&thinsp;please check back later.</p>
+<div class="jumbotron">
+{% for a in site.articles %}
+ {% if a.url == page.featured_article %}
+  <h1><a href="{{ a.url }}">{{ a.title }}</a></h1>
+  {{ a.excerpt }}
+  <p><a class="btn btn-primary btn-lg" href="{{ a.url }}" role="button">Read more</a></p>
+ {% endif %}
+{% endfor %}
+</div>

@@ -1,3 +1,25 @@
+excerpt_separator:  <!--snip-->
+
+collections:
+ articles:
+  output: true
+
+defaults:
+ -
+  scope:
+   path: ""
+   type: "articles"
+  values:
+   layout: "article"
+   permalink: "/articles/:path/"
+ -
+  scope:
+   path: ""
+   type: "pages"
+  values:
+   layout: "minimal"
+   permalink: "/:path/"
+
 exclude:
-  - CNAME
-  - config.json
+ - CNAME
+ - config.json
