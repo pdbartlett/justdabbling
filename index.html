@@ -2,23 +2,14 @@
 title: Just Dabbling
 subtitle: But wanting to achieve things too!
 layout: minimal
-featured_article: /articles/about/
+intro_article: /articles/about/
 ---
 {% include title.html %}
-<p>
- Welcome to my little corner of the web! This site is still very much under construction, so whilst
- I'm getting organised please do check back often&thinsp;&mdash;&thinsp;hopefully before too long
- you'll find something of interest!
-</p>
-<div class="jumbotron">
- {% for a in site.articles %}
-  {% if a.url == page.featured_article %}
-   <h3>
-    <a href="{{ a.url }}">{{ a.title }}</a>
-    <span class="label label-info">Featured</span>
-   </h3>
+{% for a in site.articles %}
+ {% if a.url == page.intro_article %}
+  <p>
    {{ a.excerpt }}
-   <p><a class="btn btn-primary btn-lg" href="{{ a.url }}" role="button">Read more</a></p>
-  {% endif %}
- {% endfor %}
-</div>
+   <a class="btn btn-primary btn-xs" href="{{ a.url }}" role="button">Read more</a>
+  </p>
+ {% endif %}
+{% endfor %}

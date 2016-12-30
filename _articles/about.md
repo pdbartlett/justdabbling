@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id lacinia odio
 Morbi eu quam sodales, rhoncus urna ac, dignissim metus. In elit ante, congue vitae porta quis,
 eleifend a justo. Donec in justo et justo tempor congue sed vestibulum sapien. Lorem ipsum dolor sit
 amet, consectetur adipiscing elit. Mauris enim odio, molestie eget interdum et, porttitor quis diam.
-Fusce faucibus pretium quam at pretium. In suscipit odio tempor sem hendrerit gravida. <!--snip-->
+Fusce faucibus pretium quam at pretium. In suscipit odio tempor sem hendrerit gravida.
 
 Nam a nunc ut est hendrerit posuere nec non massa. Ut lectus felis, tristique pellentesque diam at,
 vehicula aliquam erat. Aliquam aliquam ligula quis mi volutpat, at placerat ipsum mattis. Nullam
@@ -14,7 +14,7 @@ dictum nibh eget mi faucibus lobortis. Fusce eget gravida nisi. Ut ut nisl enim.
 risus quis porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 himenaeos. Phasellus sollicitudin magna est, et semper ligula sollicitudin ac. Maecenas viverra nibh
 nunc, a bibendum felis eleifend et. Suspendisse scelerisque vehicula orci, et rutrum neque convallis
-quis. Nulla sed vulputate ipsum.
+quis. Nulla sed vulputate ipsum. <!--snip-->
 
 Proin tincidunt nibh elementum est vehicula semper. Etiam pulvinar placerat eros ut viverra. Morbi
 vitae suscipit enim. Vestibulum quis tortor nisl. Nulla quis posuere nisi. Morbi ut metus feugiat,
