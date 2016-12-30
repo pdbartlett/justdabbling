@@ -390,6 +390,9 @@
     "forms.less",
     "buttons.less",
     "responsive-utilities.less",
+    "glyphicons.less",
+    "button-groups.less",
+    "input-groups.less",
     "navs.less",
     "navbar.less",
     "breadcrumbs.less",
@@ -400,6 +403,7 @@
     "jumbotron.less",
     "thumbnails.less",
     "alerts.less",
+    "progress-bars.less",
     "media.less",
     "list-group.less",
     "panels.less",
@@ -410,6 +414,7 @@
     "dropdowns.less",
     "tooltip.less",
     "popovers.less",
+    "modals.less",
     "carousel.less"
   ],
   "js": [
@@ -417,12 +422,14 @@
     "button.js",
     "carousel.js",
     "dropdown.js",
+    "modal.js",
     "tooltip.js",
     "popover.js",
     "tab.js",
     "affix.js",
     "collapse.js",
+    "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=61fa173909359723156e79343db245bd"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=39068e4d6b66425a47af8901e04ed05e"
 }
