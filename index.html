@@ -7,9 +7,7 @@ intro_article: /articles/about/
 {% include title.html %}
 {% for a in site.articles %}
  {% if a.url == page.intro_article %}
-  <p>
-   {{ a.excerpt }}
-   <a class="btn btn-primary btn-xs" href="{{ a.url }}" role="button">Read more</a>
-  </p>
+  {{ a.excerpt }}
+  <a class="btn btn-primary btn-xs" href="{{ a.url }}" role="button">Read more</a>
  {% endif %}
 {% endfor %}
