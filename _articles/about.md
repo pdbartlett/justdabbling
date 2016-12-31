@@ -12,7 +12,7 @@ it!
 
 > dabble, verb. Gerund or present participle: dabbling
 >
-> 1. immerse (one's hands or feet) partially in water and move them around gently:**
+> 1. immerse (one's hands or feet) partially in water and move them around gently:
 >    "they dabbled their feet in the rock pools"
 > 1. **take part in an activity in a casual or superficial way:**
 >    **"he dabbled in left-wing politics"**
