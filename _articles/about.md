@@ -1,39 +1,52 @@
 ---
 title: About this site
+subtitle: What, why and (eventually) how
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id lacinia odio, a posuere nibh.
-Morbi eu quam sodales, rhoncus urna ac, dignissim metus. In elit ante, congue vitae porta quis,
-eleifend a justo. Donec in justo et justo tempor congue sed vestibulum sapien. Lorem ipsum dolor sit
-amet, consectetur adipiscing elit. Mauris enim odio, molestie eget interdum et, porttitor quis diam.
-Fusce faucibus pretium quam at pretium. In suscipit odio tempor sem hendrerit gravida.
+*My name is Paul Bartlett, and I am a dabbler.*
 
-Nam a nunc ut est hendrerit posuere nec non massa. Ut lectus felis, tristique pellentesque diam at,
-vehicula aliquam erat. Aliquam aliquam ligula quis mi volutpat, at placerat ipsum mattis. Nullam
-purus ex, accumsan eget nisl in, posuere efficitur diam. Nam pulvinar efficitur dignissim. Quisque
-dictum nibh eget mi faucibus lobortis. Fusce eget gravida nisi. Ut ut nisl enim. Duis pretium vel
-risus quis porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-himenaeos. Phasellus sollicitudin magna est, et semper ligula sollicitudin ac. Maecenas viverra nibh
-nunc, a bibendum felis eleifend et. Suspendisse scelerisque vehicula orci, et rutrum neque convallis
-quis. Nulla sed vulputate ipsum. <!--snip-->
+But despite the <abbr title="Alcoholics Anonymous">AA</abbr>-style introduction, I'm not looking to
+"cure" myself of this; just to be more effective in what I do. I realise that time is a precious
+commodity, and that spreading myself too thin might seem a bit wasteful, but having many and
+wide-ranging interests seems to be a strong and long-lived trait of who I am, so I intend to embrace
+it!
 
-Proin tincidunt nibh elementum est vehicula semper. Etiam pulvinar placerat eros ut viverra. Morbi
-vitae suscipit enim. Vestibulum quis tortor nisl. Nulla quis posuere nisi. Morbi ut metus feugiat,
-fringilla dolor id, pharetra ipsum. Aliquam id porttitor felis, a pulvinar nulla. Vivamus venenatis
-sagittis sem, et pulvinar sem gravida sed. Aenean purus eros, feugiat sed neque et, accumsan
-elementum tellus. Quisque et est porta, mattis nibh vel, mollis risus. Phasellus ut velit non arcu
-egestas commodo nec sit amet massa. Mauris vitae orci id urna pharetra pellentesque nec a risus.
-Fusce scelerisque lectus a neque laoreet facilisis.
+> dabble, verb. Gerund or present participle: dabbling
+>
+> 1. immerse (one's hands or feet) partially in water and move them around gently:**
+>    "they dabbled their feet in the rock pools"
+> 1. **take part in an activity in a casual or superficial way:**
+>    **"he dabbled in left-wing politics"**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non tortor ac dolor aliquet pretium.
-Integer a ullamcorper eros, et maximus ligula. Etiam vel turpis ullamcorper libero lobortis
-facilisis. Mauris dictum mattis tortor non egestas. Nullam metus magna, aliquam vitae magna dictum,
-hendrerit fermentum ipsum. Proin feugiat eros eu massa dapibus dictum. Phasellus eleifend at ipsum
-vel sodales. Phasellus metus mauris, molestie at felis sed, pulvinar maximus nunc. Aenean molestie
-at magna nec porttitor. Morbi at posuere tellus, ac interdum nisl.
+Future posts and articles will give plenty of details of where my interests lie, but here's a quick
+overview:
 
-Phasellus finibus condimentum ligula, et porttitor nibh posuere eget. In id ante nec magna lobortis
-feugiat. Maecenas dapibus eros sem, sit amet lobortis elit porta fringilla. Mauris at lectus nulla.
-Nam libero orci, sodales nec accumsan et, ullamcorper vel magna. Maecenas sagittis hendrerit sapien.
-Pellentesque euismod a nibh at eleifend. Praesent ac mattis purus, et pellentesque lectus. Integer
-eget maximus ex, id rhoncus turpis. Aliquam ultricies suscipit dictum. In hac habitasse platea
-dictumst.
+ * Photography
+ * Music
+   - Theory
+   - Playing (want to learn tin whistle and/or ukelele)
+   - Vinyl
+ * Games (video, board and card games)
+ * Technology
+   - Coding (for work and fun)
+   - Electronics
+   - Blogging / web publishing
+ * Outdoorsy stuff
+   - Scouting
+   - Camping
+   - Basic prepping
+ * ~~Toys~~ Educational items
+ * And others I've likely forgotten! <!--snip-->
+
+So the general idea behind this site is to be more organised about my dabbling vice, whilst
+simultaneously scratching my web publishing itch and documenting a few things along the way to
+hopefully allow others to be more effective in the pursuit of their interests too, whether they are
+dabbling or being more focussed.
+
+So if any of the above sound interesting to you then do check back periodically. Hopefully very soon
+I'll have an RSS feed up and running (as soon as there's a more typical, short-form post) which
+should make this somewhat easier for people. And I do intend to write a few long-form pieces too;
+most likely starting with how I set this up.
+
+Bye for now!
+
+Paul.
