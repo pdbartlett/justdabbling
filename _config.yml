@@ -1,5 +1,3 @@
-excerpt_separator:  <!--snip-->
-
 collections:
  articles:
   output: true
@@ -16,6 +14,12 @@ defaults:
  -
   scope:
    path: ""
+   type: "posts"
+  values:
+   layout: "article"
+ -
+  scope:
+   path: ""
    type: "articles"
   values:
    layout: "article"
@@ -23,3 +27,8 @@ defaults:
 exclude:
  - CNAME
  - config.json
+
+excerpt_separator:  <!--snip-->
+
+gems:
+ - jekyll-feed

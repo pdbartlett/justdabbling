@@ -10,7 +10,14 @@
   {% if include.full %}
    <a href="{{ p.url }}" class="list-group-item">
     <h3 class="list-group-item-heading">{{ p.title }}</h3>
-    <p class="list-group-item-text">{{ p.excerpt }}</p>
+    <p class="list-group-item-text">
+     {% assign text = p.content | strip_html %}
+     {% assign truncated = text | truncate: 250 %}
+     {{ truncated }}
+     {% if truncated != text %}
+      <i>read more</i>
+     {% endif %}
+    </p>
    </a>
   {% else %}
    <li class="list-group-item"><a href="{{ p.url }}">{{ p.title }}</a></li>
