@@ -21,7 +21,11 @@
    </a>
   {% else %}
    <li class="list-group-item">
-    <a href="{{ p.url }}">{{ p.date | date: "%B %e, %Y" | append: ": " | append: p.title }}</a>
+    {% if p.date %}
+     <a href="{{ p.url }}">{{ p.date | date: "%B %e, %Y" | append: ": " | append: p.title }}</a>
+    {% else %}
+     <a href="{{ p.url }}">{{ p.title }}</a>
+    {% endif %}
    </li>
   {% endif %}
  {% endfor %}
