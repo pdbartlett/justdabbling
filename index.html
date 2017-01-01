@@ -14,15 +14,21 @@ intro_article: /articles/about.html
 <div class="row">
  <div class="panel panel-default col-md-6">
   <div class="panel-heading">
-   <h3 class="panel-title">Recent posts</h3>
+   <h3 class="panel-title">
+    Recent posts <a href="{{ site.github.url }}/feed.xml"><span class="badge">RSS</span></a>
+    <a class="btn btn-primary btn-xs" href="{{ site.github.url }}/blog" role="button">See all</a>
+   </h3>
   </div>
   <div class="panel-body">
-    {% include list.html collection=site.posts full=false %}
+   {% include list.html collection=site.posts full=false %}
   </div>
  </div>
  <div class="panel panel-default col-md-6">
   <div class="panel-heading">
-   <h3 class="panel-title">Recent articles</h3>
+   <h3 class="panel-title">
+    Recent articles
+    <a class="btn btn-primary btn-xs" href="{{ site.github.url }}/articles" role="button">See all</a>
+   </h3>
   </div>
   <div class="panel-body">
    {% include list.html collection=site.articles full=false %}
