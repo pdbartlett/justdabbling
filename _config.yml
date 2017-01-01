@@ -3,22 +3,22 @@ excerpt_separator:  <!--snip-->
 collections:
  articles:
   output: true
+ pages:
+  output: true
 
 defaults:
- -
-  scope:
-   path: ""
-   type: "articles"
-  values:
-   layout: "article"
-   permalink: "/articles/:path/"
  -
   scope:
    path: ""
    type: "pages"
   values:
    layout: "minimal"
-   permalink: "/:path/"
+ -
+  scope:
+   path: ""
+   type: "articles"
+  values:
+   layout: "article"
 
 exclude:
  - CNAME

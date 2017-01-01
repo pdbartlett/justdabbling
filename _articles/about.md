@@ -16,6 +16,7 @@ it!
 >    "they dabbled their feet in the rock pools"
 > 1. **take part in an activity in a casual or superficial way:**
 >    **"he dabbled in left-wing politics"**
+<!--snip-->
 
 Future posts and articles will give plenty of details of where my interests lie, but here's a quick
 overview:
@@ -35,7 +36,7 @@ overview:
    - Camping
    - Basic prepping
  * ~~Toys~~ Educational items
- * And others I've likely forgotten! <!--snip-->
+ * And others I've likely forgotten!
 
 So the general idea behind this site is to be more organised about my dabbling vice, whilst
 simultaneously scratching my web publishing itch and documenting a few things along the way to

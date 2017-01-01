@@ -1,0 +1,24 @@
+{% if include.collection.size == 0 %}
+ <div class="alert alert-info" role="alert">Nothing to see here&hellip; yet.</div>
+{% else %}
+ {% if include.full %}
+  <div class="list-group">
+ {% else %}
+  <ul class="list-group">
+ {% endif %}
+ {% for p in include.collection %}
+  {% if include.full %}
+   <a href="{{ p.url }}" class="list-group-item">
+    <h3 class="list-group-item-heading">{{ p.title }}</h3>
+    <p class="list-group-item-text">{{ p.excerpt }}</p>
+   </a>
+  {% else %}
+   <li class="list-group-item"><a href="{{ p.url }}">{{ p.title }}</a></li>
+  {% endif %}
+ {% endfor %}
+ {% if include.full %}
+  </div>
+ {% else %}
+  </ul>
+ {% endif %}
+{% endif %}
