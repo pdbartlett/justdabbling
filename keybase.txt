@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/pdbartlett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://justdabbling.co.uk
+  * I am pdbartlett (https://keybase.io/pdbartlett) on keybase.
+  * I have a public key with fingerprint A866 74C8 ECC5 F005 D504  71C2 5A8D 25E3 4591 F0FE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ac9badb0d45d7a431a79757f8cd2461a0a3b03d2edcdde022462c2dd2b36c15c0a",
+      "fingerprint": "a86674c8ecc5f005d50471c25a8d25e34591f0fe",
+      "host": "keybase.io",
+      "key_id": "5a8d25e34591f0fe",
+      "kid": "0101ac9badb0d45d7a431a79757f8cd2461a0a3b03d2edcdde022462c2dd2b36c15c0a",
+      "uid": "3ca9912c579a40bd26f03d08d3009400",
+      "username": "pdbartlett"
+    },
+    "service": {
+      "hostname": "justdabbling.co.uk",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1717278528,
+  "expire_in": 157680000,
+  "prev": "bc135a9778a50ad9b590c0a4d1c823aa896f0a736beceb7505930f5578f4415e",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNHAnicrZJtUFRVGMcXeZlAYqEFYZzJ4A5MFgue+7b33h2nKGW03HEwFZ1g3M69
+5yxeXvbu7r3LSyZEjWbhCzIlTsKA8ZLTRONEJBNguGiTqAGiyJRZYohGU2CpQZvT
+vYx962Pny5nznP//d/7PM+f0o6GmqJCX96XdyD448yDk3Kkmv8mVV5+1gxAVVEHY
+dxBFeGHDxQirmrNIRoSdACQgoSSIEIkAMSziIEOTkBM4lnPxEqIYGwkBpEVAIwoj
+CSEMKL1ISRRClEjbJJKVACSshEt2F2Cfxye7NR0LeZuNYyQeSxLrAoBFLGA4UqJY
+yCOKxTTDCqQLuLBu3K6ohkMPJ0IVZ8qKXtMPzoV4/6H/n3P7F3C0BAWBpCSWEyAD
+RETZXLoT8IgGQGAAMIQq9rlhCdbVHiRCn1aMNY3YaSX0eqksYWO0Ri8PNYV+VUNQ
+FIv1uWRKSqa/SGd4fIqmSEqxfr9d0zx2w65VeAx9GRadD0lOUXYj3aYbSrFPlRU3
+YSd1paTJBprkSI7ieJbirQQu98g+7JQNBcvZeKAv4xlcqiNFiaRZKHAcD1kAkSCy
+AtCbZhAp8RQNIS/oXUKOtolYwiLHAlaggYtlOd7FMCRrDFvFXreis216TligM1W5
+wA01vw8TOwOn8sNMIVGmiPBFxj8zRUXG/vv7xovNQfPQisawJvzJpHqk88zAm7vm
+idgLAxvEm29VO/CyA82vRDdPTFtSTEr0+vDhzR1Ldi3tOp3ROHstqQo1DGWntp51
+JG4y31lXMdYTaNmwZTTRsjeipCYv9fAbrRHOe5PbyNfrqmuDcfefm3TPP3LVwxw6
++W7WxpoDl0h7DmlC1+//VV25amTZoS3lStql9X8f5RqvNDxo3nPsnXprxrfd8xl3
+W69k7R/G8S/2p8wGVL7WvHWwMtfqnTFP324KzicG9oTE/NlW8HbeM5d70r3Jqb+e
+WJwT8lt4WNfW1aVCQ7q53AsGbz2Rsbu9+7OflpxBi6l4X6zo+KHt44kEpxKIyb/3
++Kg/ZWYuemlCWUch7ut9wTeeQFjnjvbZ/5iJSRj4fqw/8u7wYMvwmqB7N3A0/nzH
+C6eLPqo/H9N+7XJcFdsSk1TShD68lZ3/dPN3dNrn2XXXw8OUI72vqftqPwj/5dOD
+7V0rLyRX0yXB1VOL4q+Gfa310JUj76edr+BHJzaitclPJkWuvSiek6YsT4V2pM8l
+vRqL1rXWiZv61WdzO73j+ZC5+NXzj7E/xv3e+03ZSKzZ35aXO358rCtg6blZSCzv
+TOpT+6OOdYfGHz+5auXm3o69X8jboqaUIYHJrF6xpuasxXFDOXwiryRif7TDkpNM
+x33pbwXW5VV16kvz2mxt6O3c9wb/AcYTvXE=
+=rOO8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pdbartlett
+
+==================================================================
